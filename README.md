@@ -70,16 +70,16 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/QuanBlue/Readme-template
+git clone https://github.com/QuanBlue/Readme-template
 
 # Go into the repository
-$ cd Readme-template
+cd Readme-template
 
 # Install dependencies
-$ npm install
+npm install
 
 # Run the app
-$ npm start
+npm start
 ```
 
 > **Note**
