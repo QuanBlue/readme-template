@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./assets/readme-icon.png" alt="icon" width="300"></img>
+  <img src="./assets/readme-icon.png" alt="icon" width="200"></img>
   <br>
   <b>README TEMPLATE</b>
   <br>
