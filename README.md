@@ -1,12 +1,10 @@
 <h1 align="center">
-  <br>
   <img src="./assets/readme-icon.png" alt="icon" width="200"></img>
   <br>
-  <b>README TEMPLATE</b>
-  <br>
+  <b>README template</b>
 </h1>
 
-<h4 align="center">Summarize application.</h4>
+<p align="center">Summarize application.</p>
 
 <p align="center">
   <b>
