@@ -9,8 +9,8 @@
 <p align="center">
   <b>
     <a href="#demo">Demo</a> •
-    <a href="#documentation">Documentation</a> •
-    <a href="#usage">Usage</a> •
+    <a href="#key-features">Key Features</a> •
+    <a href="#getting-start">Getting Start</a> •
     <a href="#credits">Credits</a> •
     <a href="#license">License</a>
   </b>
@@ -20,7 +20,8 @@
 
 ## Demo
 
-Check out the [**demo video**](https://www.youtube.com/channel/UCALhAytLBhmG2un43YxU4mw) to see the app in action.
+Check out the [**demo video**](https://www.youtube.com/channel/UCALhAytLBhmG2un43YxU4mw) to see the app in action.  
+Here is deployed website: [**https://quanblue.netlify.app/**](https://quanblue.netlify.app/)
 
 ## Key Features
 
@@ -41,7 +42,7 @@ Check out the [**demo video**](https://www.youtube.com/channel/UCALhAytLBhmG2un4
 -  Cross platform
    -  Windows, macOS and Linux ready.
 
-## Getting start
+## Getting Start
 
 ### Prerequisites
 
@@ -51,7 +52,7 @@ Check out the [**demo video**](https://www.youtube.com/channel/UCALhAytLBhmG2un4
 
 To run this project, you need to add the following environment variables to your `.env` file in `/`:
 
--  **App configs:**
+-  **App configs:** Create `.env` file in `./`
 
    -  `SECRET_KEY`: a key used by Flask to encrypt and sign session data.
    -  `PORT`: specify which port the Flask application should listen on.
@@ -64,7 +65,11 @@ To run this project, you need to add the following environment variables to your
    PORT=3000
    ```
 
-### Run locally
+You can also check out the file `.env.example` to see all required environment variables.
+
+> **Note**: If you want to use this example environment, you need to rename it to `.env`.
+
+### Run Locally
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
 
