@@ -6,13 +6,34 @@
 
 <p align="center">Summarize application.</p>
 
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/QuanBlue/Readme-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/QuanBlue/Readme-template" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/QuanBlue/Readme-template" alt="last update" />
+  </a>
+  <a href="https://github.com/QuanBlue/Readme-template/network/members">
+    <img src="https://img.shields.io/github/forks/QuanBlue/Readme-template" alt="forks" />
+  </a>
+  <a href="https://github.com/QuanBlue/Readme-template/stargazers">
+    <img src="https://img.shields.io/github/stars/QuanBlue/Readme-template" alt="stars" />
+  </a>
+  <a href="https://github.com/QuanBlue/Readme-template/issues/">
+    <img src="https://img.shields.io/github/issues/QuanBlue/Readme-template" alt="open issues" />
+  </a>
+  <a href="https://github.com/QuanBlue/Readme-template/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/QuanBlue/Readme-template.svg" alt="license" />
+  </a>
+</p>
+
 <p align="center">
   <b>
-    <a href="#demo">Demo</a> •
-    <a href="#key-features">Key Features</a> •
-    <a href="#getting-start">Getting Start</a> •
-    <a href="#credits">Credits</a> •
-    <a href="#license">License</a>
+      <a href="#demo">Demo</a> •
+      <a href="https://github.com/QuanBlue/Readme-template">Documentation</a> •
+      <a href="https://github.com/QuanBlue/Readme-template/issues/">Report Bug</a> •
+      <a href="https://github.com/QuanBlue/Readme-template/issues/">Request Feature</a>
   </b>
 </p>
 
@@ -89,6 +110,14 @@ npm start
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## Contributors
+
+<a href="https://github.com/QuanBlue/Readme-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=QuanBlue/Readme-template" />
+</a>
+
+Contributions are always welcome!
 
 ## Credits
 
