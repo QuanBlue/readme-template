@@ -4,7 +4,7 @@
   <b>README template</b>
 </h1>
 
-<p align="center">Summarize application.</p>
+<p align="center">Structured guide to create informative project documentation, providing a standard format for conveying project details and instructions.</p>
 
 <!-- Badges -->
 <p align="center">
@@ -44,17 +44,17 @@
 <details open>
 <summary><b>📖 Table of Contents</b></summary>
 
--  [:film_projector: Demo](#film_projector-demo)
--  [:glowing_star: Key Features](#glowing_star-key-features)
--  [:toolbox: Getting Started](#toolbox-getting-started)
-   -  [:pushpin: Prerequisites](#pushpin-prerequisites)
-   -  [:key: Environment Variables](#key-environment-variables)
-   -  [:hammer_and_wrench: Installation](#hammer_and_wrench-installation)
--  [:world_map: Roadmap](#world_map-roadmap)
--  [:busts_in_silhouette: Contributors](#busts_in_silhouette-contributors)
--  [:sparkles: Credits](#sparkles-credits)
--  [:scroll: License](#scroll-license)
--  [:link: Related Projects](#link-related-projects)
+-  [Demo](#film_projector-demo)
+-  [Key Features](#glowing_star-key-features)
+-  [Getting Started](#toolbox-getting-started)
+   -  [Prerequisites](#pushpin-prerequisites)
+   -  [Environment Variables](#key-environment-variables)
+   -  [Installation](#hammer_and_wrench-installation)
+-  [Roadmap](#world_map-roadmap)
+-  [Contributors](#busts_in_silhouette-contributors)
+-  [Credits](#sparkles-credits)
+-  [License](#scroll-license)
+-  [Related Projects](#link-related-projects)
 </details>
 
 ## :film_projector: Demo
