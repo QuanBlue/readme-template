@@ -44,37 +44,37 @@
 <details open>
 <summary><b>📖 Table of Contents</b></summary>
 
--  [Demo](#-demo)
--  [Key Features](#-key-features)
--  [Getting Started](#-getting-started)
-   -  [Prerequisites](#-prerequisites)
-   -  [Environment Variables](#-environment-variables)
-   -  [Installation](#-installation)
--  [Roadmap](#-roadmap)
--  [Contributors](#-contributors)
--  [Credits](#-credits)
--  [License](#-license)
--  [Related Projects](#-related-projects)
+-  [:film_projector: Demo](#film_projector-demo)
+-  [:glowing_star: Key Features](#glowing_star-key-features)
+-  [:toolbox: Getting Started](#toolbox-getting-started)
+   -  [:pushpin: Prerequisites](#pushpin-prerequisites)
+   -  [:key: Environment Variables](#key-environment-variables)
+   -  [:hammer_and_wrench: Installation](#hammer_and_wrench-installation)
+-  [:world_map: Roadmap](#world_map-roadmap)
+-  [:busts_in_silhouette: Contributors](#busts_in_silhouette-contributors)
+-  [:sparkles: Credits](#sparkles-credits)
+-  [:scroll: License](#scroll-license)
+-  [:link: Related Projects](#link-related-projects)
 </details>
 
-## 📽 Demo
+## :film_projector: Demo
 
 Check out the [**demo video**](https://www.youtube.com/channel/UCALhAytLBhmG2un43YxU4mw) to see the app in action.  
 Here is deployed website: [**https://quanblue.netlify.app/**](https://quanblue.netlify.app/)
 
-## 🌟 Key Features
+## :glowing_star: Key Features
 
 -  Template - professional README, [Release](./Release.md) templates
 -  Theme - nice theme for README
 
-## 🧰 Getting Started
+## :toolbox: Getting Started
 
-### 📌 Prerequisites
+### :pushpin: Prerequisites
 
 -  **Python:** `>= 3.10.7`
 -  **Docker Engine:** Docker provides a consistent and portable environment for running applications in containers. Install [here](https://www.docker.com/get-started/).
 
-### 🔑 Environment Variables
+### :key: Environment Variables
 
 To run this project, you need to add the following environment variables to your `.env` file in `/`:
 
@@ -95,7 +95,7 @@ You can also check out the file `.env.example` to see all required environment v
 
 > **Note**: If you want to use this example environment, you need to rename it to `.env`.
 
-### 🛠 Installation
+### :hammer_and_wrench: Installation
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
 
@@ -116,13 +116,13 @@ npm start
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## 🗺 Roadmap
+## :world_map: Roadmap
 
 -  [x] Update theme
 -  [x] Emoji
 -  [ ] Add more features
 
-## 👥 Contributors
+## :busts_in_silhouette: Contributors
 
 <a href="https://github.com/QuanBlue/Readme-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=QuanBlue/Readme-template" />
@@ -130,7 +130,7 @@ npm start
 
 Contributions are always welcome!
 
-## 🎖 Credits
+## :sparkles: Credits
 
 This software uses the following open source packages:
 
@@ -138,11 +138,11 @@ This software uses the following open source packages:
 -  [Marked - a markdown parser](https://github.com/chjj/marked)
 -  Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 
-## 📜 License
+## :scroll: License
 
 Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for more information.
 
-## 🖇 Related Projects
+## :link: Related Projects
 
 -  <u>[**QuanBlue**](https://github.com/QuanBlue/QuanBlue)</u>: My bio
 -  <u>[**Portfolio**](https://github.com/QuanBlue/Portfolio)</u>: My first portfolio website, using MERN stack. [Visit here](https://quanblue.netlify.app/)
