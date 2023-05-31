@@ -45,7 +45,7 @@
 <summary><b>📖 Table of Contents</b></summary>
 
 -  [Demo](#film_projector-demo)
--  [Key Features](#glowing_star-key-features)
+-  [Key Features](#star-key-features)
 -  [Getting Started](#toolbox-getting-started)
    -  [Prerequisites](#pushpin-prerequisites)
    -  [Environment Variables](#key-environment-variables)
@@ -62,7 +62,7 @@
 Check out the [**demo video**](https://www.youtube.com/channel/UCALhAytLBhmG2un43YxU4mw) to see the app in action.  
 Here is deployed website: [**https://quanblue.netlify.app/**](https://quanblue.netlify.app/)
 
-## :glowing_star: Key Features
+## :star: Key Features
 
 -  Template - professional README, [Release](./Release.md) templates
 -  Theme - nice theme for README
