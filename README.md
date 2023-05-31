@@ -37,7 +37,25 @@
   </b>
 </p>
 
+<br/>
+
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+
+<details open>
+<summary><b>Table of Contents</b></summary>
+
+-  [Demo](#demo)
+-  [Key Features](#key-features)
+-  [Getting Started](#getting-started)
+   -  [Prerequisites](#prerequisites)
+   -  [Environment Variables](#environment-variables)
+   -  [Installation](#installation)
+-  [Roadmap](#roadmap)
+-  [Contributors](#contributors)
+-  [Credits](#credits)
+-  [License](#license)
+-  [Related Projects](#related-projects)
+</details>
 
 ## Demo
 
@@ -63,11 +81,14 @@ Here is deployed website: [**https://quanblue.netlify.app/**](https://quanblue.n
 -  Cross platform
    -  Windows, macOS and Linux ready.
 
-## Getting Start
+## Getting Started
 
 ### Prerequisites
 
--  Python `>= 3.10.7`
+Before proceeding with the installation and usage of this project, ensure that you have the following prerequisites in place:
+
+-  **Python:** `>= 3.10.7`
+-  **Docker Engine:** Docker provides a consistent and portable environment for running applications in containers. Install [here](https://www.docker.com/get-started/).
 
 ### Environment Variables
 
@@ -90,7 +111,7 @@ You can also check out the file `.env.example` to see all required environment v
 
 > **Note**: If you want to use this example environment, you need to rename it to `.env`.
 
-### Run Locally
+### Installation
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
 
@@ -111,6 +132,11 @@ npm start
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+## Roadmap
+
+-  [x] Update theme
+-  [ ] Add more features
+
 ## Contributors
 
 <a href="https://github.com/QuanBlue/Readme-template/graphs/contributors">
@@ -123,17 +149,19 @@ Contributions are always welcome!
 
 This software uses the following open source packages:
 
--  [Electron](http://electron.atom.io/)
 -  [Node.js](https://nodejs.org/)
 -  [Marked - a markdown parser](https://github.com/chjj/marked)
--  [showdown](http://showdownjs.github.io/showdown/)
--  [CodeMirror](http://codemirror.net/)
 -  Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
--  [highlight.js](https://highlightjs.org/)
 
 ## License
 
 Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for more information.
+
+## Related Projects
+
+-  <u>[**QuanBlue**](https://github.com/QuanBlue/QuanBlue)</u>: My bio
+-  <u>[**Portfolio**](https://github.com/QuanBlue/Portfolio)</u>: My first portfolio website, using MERN stack. [Visit here](https://quanblue.netlify.app/)
+-  <u>[**Readme-template**](https://github.com/QuanBlue/Readme-template)</u>: A template for creating README.md
 
 ---
 
