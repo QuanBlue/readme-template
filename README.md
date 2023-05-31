@@ -42,55 +42,39 @@
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 <details open>
-<summary><b>Table of Contents</b></summary>
+<summary><b>📖 Table of Contents</b></summary>
 
--  [Demo](#demo)
--  [Key Features](#key-features)
--  [Getting Started](#getting-started)
-   -  [Prerequisites](#prerequisites)
-   -  [Environment Variables](#environment-variables)
-   -  [Installation](#installation)
--  [Roadmap](#roadmap)
--  [Contributors](#contributors)
--  [Credits](#credits)
--  [License](#license)
--  [Related Projects](#related-projects)
+-  [Demo](#-demo)
+-  [Key Features](#-key-features)
+-  [Getting Started](#-getting-started)
+   -  [Prerequisites](#-prerequisites)
+   -  [Environment Variables](#-environment-variables)
+   -  [Installation](#-installation)
+-  [Roadmap](#-roadmap)
+-  [Contributors](#-contributors)
+-  [Credits](#-credits)
+-  [License](#-license)
+-  [Related Projects](#-related-projects)
 </details>
 
-## Demo
+## 📽 Demo
 
 Check out the [**demo video**](https://www.youtube.com/channel/UCALhAytLBhmG2un43YxU4mw) to see the app in action.  
 Here is deployed website: [**https://quanblue.netlify.app/**](https://quanblue.netlify.app/)
 
-## Key Features
+## 🌟 Key Features
 
--  LivePreview - Make changes, See changes
-   -  Instantly see what your Markdown documents look like in HTML as you create them.
--  Sync Scrolling
-   -  While you type, LivePreview will automatically scroll to the current location you're editing.
--  GitHub Flavored Markdown
--  Syntax highlighting
--  Dark/Light mode
--  Toolbar for basic Markdown formatting
--  Supports multiple cursors
--  Save the Markdown preview as PDF
--  Emoji support in preview :tada:
--  App will keep alive in tray for quick usage
--  Full screen mode
-   -  Write distraction free.
--  Cross platform
-   -  Windows, macOS and Linux ready.
+-  Template - professional README, [Release](./Release.md) templates
+-  Theme - nice theme for README
 
-## Getting Started
+## 🧰 Getting Started
 
-### Prerequisites
-
-Before proceeding with the installation and usage of this project, ensure that you have the following prerequisites in place:
+### 📌 Prerequisites
 
 -  **Python:** `>= 3.10.7`
 -  **Docker Engine:** Docker provides a consistent and portable environment for running applications in containers. Install [here](https://www.docker.com/get-started/).
 
-### Environment Variables
+### 🔑 Environment Variables
 
 To run this project, you need to add the following environment variables to your `.env` file in `/`:
 
@@ -111,7 +95,7 @@ You can also check out the file `.env.example` to see all required environment v
 
 > **Note**: If you want to use this example environment, you need to rename it to `.env`.
 
-### Installation
+### 🛠 Installation
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
 
@@ -132,12 +116,13 @@ npm start
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## Roadmap
+## 🗺 Roadmap
 
 -  [x] Update theme
+-  [x] Emoji
 -  [ ] Add more features
 
-## Contributors
+## 👥 Contributors
 
 <a href="https://github.com/QuanBlue/Readme-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=QuanBlue/Readme-template" />
@@ -145,7 +130,7 @@ npm start
 
 Contributions are always welcome!
 
-## Credits
+## 🎖 Credits
 
 This software uses the following open source packages:
 
@@ -153,11 +138,11 @@ This software uses the following open source packages:
 -  [Marked - a markdown parser](https://github.com/chjj/marked)
 -  Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 
-## License
+## 📜 License
 
 Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for more information.
 
-## Related Projects
+## 🖇 Related Projects
 
 -  <u>[**QuanBlue**](https://github.com/QuanBlue/QuanBlue)</u>: My bio
 -  <u>[**Portfolio**](https://github.com/QuanBlue/Portfolio)</u>: My first portfolio website, using MERN stack. [Visit here](https://quanblue.netlify.app/)
